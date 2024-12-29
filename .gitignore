@@ -1,0 +1,5 @@
+# Exclude the llama_localdirectory
+llama_local/
+
+# Exclude the models directory
+models/
